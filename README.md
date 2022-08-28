@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/88579983/185889792-3ba34999-4765-46b0-
 You can copy this code. 
 
 
-| Video & Code are from : [This Website]https://media.geeksforgeeks.org/] | 
+| Video & Code are from : [This Website](https://media.geeksforgeeks.org/) | 
